@@ -1,0 +1,26 @@
+A3(even, odd)
+7
+4
+ee
+oe
+eo
+oo
+2
+a b
+8
+ee a oe
+ee b eo
+eo a oo
+eo b ee
+oe a ee
+oe b oo
+oo a eo
+oo b oe
+1
+ee
+1
+eo
+
+//автомат ищет (четное, нечетное) количество (a, b) в строке
+//четное - e (even)
+//нечетное - o (odd)
