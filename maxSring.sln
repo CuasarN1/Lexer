@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maxSring", "maxSring\maxSring.vcxproj", "{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Debug|x64.ActiveCfg = Debug|x64
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Debug|x64.Build.0 = Debug|x64
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Debug|x86.Build.0 = Debug|Win32
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Release|x64.ActiveCfg = Release|x64
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Release|x64.Build.0 = Release|x64
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Release|x86.ActiveCfg = Release|Win32
+		{E8DC4897-B10C-4835-9F00-BD5EEC2EA0BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271CA328-0CF1-45EF-9FF2-825B2583FF51}
+	EndGlobalSection
+EndGlobal
